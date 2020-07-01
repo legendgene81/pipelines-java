@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/eugenekepe/Sangotv/_apis/build/status/legendgene81.pipelines-java?branchName=master)](https://dev.azure.com/eugenekepe/Sangotv/_build/latest?definitionId=2&branchName=master)
 
 # Contributing
 
